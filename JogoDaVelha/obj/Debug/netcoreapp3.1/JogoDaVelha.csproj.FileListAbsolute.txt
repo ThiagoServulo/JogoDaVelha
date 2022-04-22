@@ -1,0 +1,14 @@
+D:\Projetos\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp3.1\JogoDaVelha.exe
+D:\Projetos\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp3.1\JogoDaVelha.deps.json
+D:\Projetos\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp3.1\JogoDaVelha.runtimeconfig.json
+D:\Projetos\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp3.1\JogoDaVelha.runtimeconfig.dev.json
+D:\Projetos\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp3.1\JogoDaVelha.dll
+D:\Projetos\JogoDaVelha\JogoDaVelha\bin\Debug\netcoreapp3.1\JogoDaVelha.pdb
+D:\Projetos\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp3.1\JogoDaVelha.csproj.AssemblyReference.cache
+D:\Projetos\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp3.1\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp3.1\JogoDaVelha.AssemblyInfoInputs.cache
+D:\Projetos\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp3.1\JogoDaVelha.AssemblyInfo.cs
+D:\Projetos\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp3.1\JogoDaVelha.csproj.CoreCompileInputs.cache
+D:\Projetos\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp3.1\JogoDaVelha.dll
+D:\Projetos\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp3.1\JogoDaVelha.pdb
+D:\Projetos\JogoDaVelha\JogoDaVelha\obj\Debug\netcoreapp3.1\JogoDaVelha.genruntimeconfig.cache
