@@ -8,7 +8,7 @@ namespace JogoDaVelha
     {
         public int Quantidade_Jogos { get; set; }
 
-        private List<(int, int)> _jogadas = new List<(int, int)>();
+        public List<(int, int)> Jogadas = new List<(int, int)>();
 
         public Jogo()
         {
@@ -83,12 +83,12 @@ namespace JogoDaVelha
                 return false;
             }
             
-            if(_jogadas.Contains((linha, coluna)))
+            if(Jogadas.Contains((linha, coluna)))
             {
                 return false;
             }
 
-            _jogadas.Add((linha, coluna));
+            Jogadas.Add((linha, coluna));
             return true;
         }
 
